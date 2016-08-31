@@ -77,6 +77,8 @@ A certain number of failing requests is to be expected, as the Niantic servers a
 Niantic blocked the IPs of several popular cloud providers such as Amazon, Digital Ocean, Google, etc. Try it on a different server.
 
 
+## Android client
 
+You can use [PokiiMap](http://pokiimap.readthedocs.io/en/latest/livemap.html#private-server) as a client to display data from a pogom server. Get it [here](http://pokiimap.readthedocs.io/en/latest/download.html) and see [documentations](http://pokiimap.readthedocs.io/en/latest/livemap.html#private-server)
 
 
